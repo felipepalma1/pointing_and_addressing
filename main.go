@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Welcome to Pointing and Addressing")
+	treasure := "The friends we make along the way"
+	fmt.Println(treasure)
 }
